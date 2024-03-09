@@ -53,6 +53,13 @@ body {
   color: var(--text-light);
 }
 
+.section__descriptionnn {
+  max-width: 450px;
+  margin-block: 1rem;
+  margin-inline: auto;
+  color: var(--text-light);
+}
+
 .btn {
   padding: 0.75rem 1.5rem;
   outline: none;
@@ -640,6 +647,13 @@ nav {
   .service__grid {
     gap: 2rem;
   }
+}
+
+.discription-above-footer {
+  max-width: 100%;
+  margin-block: 1rem;
+  margin-inline: auto;
+  color: var(--text-light);
 }
 
 
